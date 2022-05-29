@@ -1,0 +1,6 @@
+A:\Александр\fastLPI\fastLPI-decompile-tool-example\bin\Debug\fastLPI decompile tool.exe
+A:\Александр\fastLPI\fastLPI-decompile-tool-example\bin\Debug\fastLPI decompile tool.pdb
+A:\Александр\fastLPI\fastLPI-decompile-tool-example\obj\Debug\fastLPI decompile tool example.csproj.AssemblyReference.cache
+A:\Александр\fastLPI\fastLPI-decompile-tool-example\obj\Debug\fastLPI decompile tool example.csproj.CoreCompileInputs.cache
+A:\Александр\fastLPI\fastLPI-decompile-tool-example\obj\Debug\fastLPI decompile tool.exe
+A:\Александр\fastLPI\fastLPI-decompile-tool-example\obj\Debug\fastLPI decompile tool.pdb

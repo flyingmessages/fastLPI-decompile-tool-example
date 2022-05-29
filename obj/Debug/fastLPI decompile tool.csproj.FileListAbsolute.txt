@@ -4,3 +4,9 @@ C:\Users\user\source\repos\fastLPI decompile tool\obj\Debug\fastLPI decompile to
 C:\Users\user\source\repos\fastLPI decompile tool\obj\Debug\fastLPI decompile tool.dll
 C:\Users\user\source\repos\fastLPI decompile tool\obj\Debug\fastLPI decompile tool.pdb
 C:\Users\user\source\repos\fastLPI decompile tool\obj\Debug\fastLPI decompile tool.csproj.AssemblyReference.cache
+A:\Александр\fastLPI\fastLPI-decompile-tool-example-main\bin\Debug\fastLPI decompile tool.exe
+A:\Александр\fastLPI\fastLPI-decompile-tool-example-main\bin\Debug\fastLPI decompile tool.pdb
+A:\Александр\fastLPI\fastLPI-decompile-tool-example-main\obj\Debug\fastLPI decompile tool.csproj.AssemblyReference.cache
+A:\Александр\fastLPI\fastLPI-decompile-tool-example-main\obj\Debug\fastLPI decompile tool.csproj.CoreCompileInputs.cache
+A:\Александр\fastLPI\fastLPI-decompile-tool-example-main\obj\Debug\fastLPI decompile tool.exe
+A:\Александр\fastLPI\fastLPI-decompile-tool-example-main\obj\Debug\fastLPI decompile tool.pdb
